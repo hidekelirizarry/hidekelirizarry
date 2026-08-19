@@ -6,11 +6,10 @@ Self-studying control theory and embedded systems, working toward guidance, navi
 </p>
 
 <p align="center">
-<a href="mailto:nikozarry@gmail.com">
-<img src="https://img.shields.io/badge/Email-nikozarry%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
+<a href="mailto:hidekelirizarry10@gmail.com">
+<img src="https://img.shields.io/badge/Email-hidekelirizarry10%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/UCF-Mechanical%20Engineering-black?style=flat&logo=university&logoColor=gold" />
 </p>
 
 ---
