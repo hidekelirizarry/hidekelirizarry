@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Hidekel (Niko) Irizarry 👋</h1>
+<h1 align="center">Hi, I'm Hidekel Irizarry 👋</h1>
 
 <p align="center">
-Mechanical Engineering student at UCF &mdash; building things that simulate the physical world.<br>
-Self-studying machine learning on the side, working toward the intersection of engineering and AI.
+Mechanical Engineering student at UCF, building things that simulate the physical world.<br>
+Self-studying control theory and embedded systems, working toward guidance, navigation, and control (GNC) in aerospace.
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@ Self-studying machine learning on the side, working toward the intersection of e
 
 ### [TVC Rocket Ascent Simulator](https://github.com/NikoZarry/tvc-simulator)
 
-2D Thrust Vector Control simulator, built from scratch in Python — no physics engines. A closed-loop PID controller with anti-windup actively corrects pitch during the burn, validated with scripted wind-gust disturbance testing rather than just recovery from a bad initial condition.
+2D Thrust Vector Control simulator, built from scratch in Python. No physics engines. A closed-loop PID controller with anti-windup actively corrects pitch during the burn, validated with scripted wind-gust disturbance testing rather than just recovery from a bad initial condition.
 
-**Status:** Phase 3 complete (PID controller, anti-windup, disturbance testing). Starting Phase 4 (telemetry logging, visualization) — actively in progress, more to come.
+**Status:** Phase 3 complete (PID controller, anti-windup, disturbance testing). Starting Phase 4 (telemetry logging, visualization). Actively in progress, more to come.
 
 `Python` `Control Systems` `PID` `Rocket Dynamics` `Simulation`
 
@@ -54,7 +54,3 @@ Self-studying machine learning on the side, working toward the intersection of e
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
-
----
-
-<p align="center"><em>Always building. Always learning.</em></p>
