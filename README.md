@@ -24,7 +24,7 @@ Self-studying control theory and embedded systems, working toward guidance, navi
 <img src="https://raw.githubusercontent.com/hidekelirizarry/tvc-simulator/main/telemetry_static.png" width="800">
 </p>
 
-**Status:** Phase 4 (static telemetry) complete, verified numerical physics, closed-loop PID with anti-windup, full 5-panel flight telemetry visualization. Live animation prototyped and deliberately deferred pending real asset rendering. Actively continuing toward a v2.
+**Status:** Phase 4 (static telemetry) complete, verified numerical physics, closed-loop PID with anti-windup, full 5-panel flight telemetry visualization. 
 
 `Python` `Control Systems` `PID` `Rocket Dynamics` `Simulation`
 
