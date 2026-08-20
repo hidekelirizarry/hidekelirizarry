@@ -21,7 +21,7 @@ Self-studying control theory and embedded systems, working toward guidance, navi
 2D Thrust Vector Control simulator, built from scratch in Python. No physics engines. A closed-loop PID controller with anti-windup actively corrects pitch during the burn, validated with scripted wind-gust disturbance testing rather than just recovery from a bad initial condition.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/hidekelirizarry/tvc-simulator/main/telemetry_static.png" width="700">
+<img src="https://raw.githubusercontent.com/hidekelirizarry/tvc-simulator/main/telemetry_static.png" width="800">
 </p>
 
 **Status:** Phase 4 (static telemetry) complete, verified numerical physics, closed-loop PID with anti-windup, full 5-panel flight telemetry visualization. Live animation prototyped and deliberately deferred pending real asset rendering. Actively continuing toward a v2.
