@@ -16,11 +16,15 @@ Self-studying control theory and embedded systems, working toward guidance, navi
 
 ## Featured Project
 
-### [TVC Rocket Ascent Simulator](https://github.com/NikoZarry/tvc-simulator)
+### [TVC Rocket Ascent Simulator](https://github.com/hidekelirizarry/tvc-simulator)
 
 2D Thrust Vector Control simulator, built from scratch in Python. No physics engines. A closed-loop PID controller with anti-windup actively corrects pitch during the burn, validated with scripted wind-gust disturbance testing rather than just recovery from a bad initial condition.
 
-**Status:** Phase 3 complete (PID controller, anti-windup, disturbance testing). Starting Phase 4 (telemetry logging, visualization). Actively in progress, more to come.
+<p align="center">
+<img src="https://raw.githubusercontent.com/hidekelirizarry/tvc-simulator/main/telemetry_static.png" width="700">
+</p>
+
+**Status:** Phase 4 (static telemetry) complete, verified numerical physics, closed-loop PID with anti-windup, full 5-panel flight telemetry visualization. Live animation prototyped and deliberately deferred pending real asset rendering. Actively continuing toward a v2.
 
 `Python` `Control Systems` `PID` `Rocket Dynamics` `Simulation`
 
@@ -38,6 +42,6 @@ Self-studying control theory and embedded systems, working toward guidance, navi
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />  
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
